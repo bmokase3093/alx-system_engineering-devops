@@ -4,3 +4,4 @@ Change the working directory to the user's home directory.
 Display current directory content in a long format.
 Display current directory content including hidden files using a long format.
 Display current directory contents in long format with user IDs and groups IDs numerical, and hiddent files
+Create a directory inside a directory
