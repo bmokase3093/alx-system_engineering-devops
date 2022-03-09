@@ -13,3 +13,4 @@ Convert decimal to binary
 Print all possbible combinations of two letters except oo
 Print number with two decimal places
 Convert decimal to hexadecimal
+Encode and decode text using the rot13 encryption
