@@ -14,3 +14,4 @@ Print all possbible combinations of two letters except oo
 Print number with two decimal places
 Convert decimal to hexadecimal
 Encode and decode text using the rot13 encryption
+Print every other line from the input, starting with the first line
