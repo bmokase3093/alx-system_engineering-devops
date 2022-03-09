@@ -5,3 +5,4 @@ Count number of directories in the PATH
 List environment variables
 list all local variables, and environment variables, and functions
 Create local variable
+Create a global variable
