@@ -11,3 +11,4 @@ Print result of POWER divided by DIVIDE
 Print result of BREATH to power of LOVE
 Convert decimal to binary
 Print all possbible combinations of two letters except oo
+Print number with two decimal places
