@@ -7,3 +7,4 @@ list all local variables, and environment variables, and functions
 Create local variable
 Create a global variable
 Print results of addition
+Print result of POWER divided by DIVIDE
