@@ -23,3 +23,13 @@ The content of the current directory
 In a list format
 Where only the part of the name after the first dash is displayed (refer to the example)
 Write a Bash script that gives you information about the school file.
+Write a Bash script that displays numbers from 1 to 100.
+
+Requirements:
+
+Displays FizzBuzz when the number is a multiple of 3 and 5
+Displays Fizz when the number is multiple of 3
+Displays Buzz when the number is a multiple of 5
+Otherwise, displays the number
+In a list format
+
