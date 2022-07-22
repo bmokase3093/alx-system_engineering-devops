@@ -45,3 +45,16 @@ Requirements:
 You must use the while loop (for and until are forbidden)
 Write a Bash script that displays the content of the file /etc/passwd, using the while loop + IFS.
 Write a Bash script that displays the visitor IP along with the HTTP status code from the Apache log file.
+Now that you’ve parsed the Apache log file, let’s sort the data so you can get a better idea of what is going on.
+
+Using what you did in the previous exercise, write a Bash script that groups visitors by IP and HTTP status code, and displays this data.
+
+Requirements:
+
+The exact format must be:
+OCCURENCE_NUMBER IP HTTP_CODE
+In list format
+Ordered from the greatest to the lowest number of occurrences
+See example
+You must use awk
+You are not allowed to use while, for, until and cut
