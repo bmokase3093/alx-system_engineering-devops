@@ -19,3 +19,4 @@ Displays To infinity and beyond indefinitely
 Displays I hate the kill command when receiving a SIGTERM signal
 Displays Y U no love me?! when receiving a SIGINT signal
 Deletes the file /var/run/myscript.pid and terminates itself when receiving a SIGQUIT or SIGTERM signal
+Write Bash (init) script 101-manage_my_process that manages manage_my_process. (both files need to be pushed to git)
