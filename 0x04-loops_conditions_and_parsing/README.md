@@ -22,3 +22,4 @@ Write a Bash script that displays:
 The content of the current directory
 In a list format
 Where only the part of the name after the first dash is displayed (refer to the example)
+Write a Bash script that gives you information about the school file.
