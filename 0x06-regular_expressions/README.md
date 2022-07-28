@@ -13,3 +13,4 @@ This task is brought to you by a professional advisor Neha Jain, Senior Software
 Requirement:
 
 The regular expression must match a 10 digit phone number
+The regular expression must be only matching: capital letters
